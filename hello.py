@@ -1,7 +1,6 @@
 def main():
-    print("Hello!")
-    print("Malgorzata")
-
-
-if __name__ == '__main__':
-    main()
+    name = input("Give name: ")
+    if(name == 'Jan'):
+        print("Witaj!")
+    else:
+        print("Hello!")

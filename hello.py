@@ -6,6 +6,8 @@ def main():
         print("Guten tag!")
     elif name == 'Joaqin':
         print("Buenas dias!")
+    elif name == 'Sasha':
+        print("Здравствуйте")
     else:
         print("Hello!")
 if __name__ == '__main__':

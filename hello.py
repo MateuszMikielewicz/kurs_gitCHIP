@@ -7,7 +7,7 @@ def main():
     elif name == 'Joaqin':
         print("Buenas dias!")
     elif name == 'Sasha':
-        print("Здравствуйте")
+        print("Здравствуйтеaaa")
     else:
         print("Hello!")
 if __name__ == '__main__':

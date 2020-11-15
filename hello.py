@@ -1,10 +1,10 @@
 def main():
     name = input("Give name: ")
-    if(name == 'Jan'):
+    if name == 'Jan':
         print("Witaj!")
-    elif (name == 'Hans'):
+    elif name == 'Hans':
         print("Guten tag!")
-    elif (name == 'Joaqin'):
+    elif name == 'Joaqin':
         print("Buenas dias!")
     else:
         print("Hello!")

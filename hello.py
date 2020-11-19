@@ -9,6 +9,6 @@ def main():
     elif name == 'Sasha':
         print("Здравствуйтеaaa")
     else:
-        print("Hello!!")
+        print("Hello!!!!")
 if __name__ == '__main__':
     main()
